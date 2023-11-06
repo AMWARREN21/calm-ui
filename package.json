@@ -3,6 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/amwarren21"
   },
+  "repository":"https://github.com/AMWARREN21/calm-ui",
   "version": "0.0.1",
   "description": "",
   "scripts": {
